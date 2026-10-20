@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/coleifer/sqlite-vtfunc/commit/2001b5567bbd83435775efba5457fc0cfdafaa46",
       "git:hexsha": "2001b5567bbd83435775efba5457fc0cfdafaa46",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T20:45:28.873879+00:00"
     },
     {
       "@id": "https://repolex.ai/r/coleifer/sqlite-vtfunc/commit/1733bf1df29263ab211d95d94cc3480604be220b",
