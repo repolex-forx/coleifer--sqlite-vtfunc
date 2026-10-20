@@ -1,0 +1,11 @@
+{
+  "org": "coleifer",
+  "repo": "sqlite-vtfunc",
+  "versions": [
+    {
+      "commit": "2001b5567bbd83435775efba5457fc0cfdafaa46",
+      "tag": "",
+      "parsed_at": "2026-10-20T20:45:28.874449+00:00"
+    }
+  ]
+}
